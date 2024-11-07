@@ -1,5 +1,4 @@
 # ForestGame.py
-
 ForestGame - A Text-Based Adventure Game
 This is a simple text-based adventure game written in Python, where the player must navigate through a perilous forest to survive. It showcases basic programming concepts and demonstrates the ability to create engaging interactive experiences.
 
